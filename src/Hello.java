@@ -6,5 +6,6 @@ public class Hello {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		System.out.println((int)Math.pow(n, 2));
+		System.out.println("UPDATE!!!");
 	}
 }
